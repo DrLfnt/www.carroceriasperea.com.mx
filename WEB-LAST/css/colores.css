@@ -1,0 +1,102 @@
+/* Arcoiris Background */
+@-webkit-keyframes arcoiris {
+	0% { color: #333333; background: white; }
+	7% { color: #0c84ff; background: #001f3f; }
+	14% { color: #40a6ff; background: #0074d9; }
+	21% { color: #00a5e5; background: #7fdbff; }
+	28% { color: #165656; background: #39cccc; }
+	35% { color: #112c20; background: #3d9970; }
+	42% { color: #124f19; background: #2ecc40; }
+	49% { color: #00672d; background: #01ff70; }
+	56% { color: #665800; background: #ffdc00; }
+	63% { color: #ffd7b4; background: #ff851b; }
+	70% { color: #ffd1cf; background: #ff4136; }
+	77% { color: #e44e97; background: #85144b; }
+	84% { color: #f9a2e5; background: #f012be; }
+	91% { color: #e679f6; background: #b10dc9; }
+	95% { color: #5e5e5e; background: #111111; }
+	96% { color: #919191; background: #dddddd; }
+	98% { color: #5d5d5d; background: #aaaaaa; }
+	100% { color: #b3b3b3; background: white; }
+}
+
+.bg-arcoiris {
+	-webkit-animation: arcoiris 100s linear infinite;
+	-moz-animation: arcoiris 100s linear infinite;
+	animation: arcoiris 100s linear infinite;
+}
+
+/* General Background Color */
+.bg {background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-webkit-background-size: cover;
+}
+
+/* Background */
+.bg-salmon {background-color: #FA8072;}
+.bg-khaki {background-color: #F0E68C;}
+.bg-darkcyan {background-color: #008B8B;}
+.bg-lightcyan {background-color: #E0FFFF;}
+.bg-cyan {background-color: #00FFFF;}
+.bg-aqua {background-color: #7FDBFF;}
+.bg-black {background-color: #111111;}
+.bg-blue {background-color: #0074D9;}
+.bg-fuchsia {background-color: #F012BE;}
+.bg-green {background-color: #2ECC40;}
+.bg-lime {background-color: #01FF70;}
+.bg-maroon {background-color: #85144B;}
+.bg-navy {background-color: #001F3F;}
+.bg-olive {background-color: #3D9970;}
+.bg-orange {background-color: #FF851B;}
+.bg-purple {background-color: #B10DC9;}
+.bg-red {background-color: #FF4136;}
+.bg-silver {background-color: #ddd;}
+.bg-gray {background-color: #aaa;}
+.bg-teal {background-color: #39CCCC;}
+.bg-white {background-color: white;}
+.bg-yellow {background-color: #FFDC00;}
+.bg-transparet {background-color: transparent !important;}
+
+/* Color *//* Text */
+.salmon {color: #FA8072;}
+.khaki {color: #F0E68C;}
+.darkcyan {color: #008B8B;}
+.bg-lightcyan {color: #E0FFFF;}
+.cyan {color: #00FFFF;}
+.aqua {color: #7FDBFF;}
+.blue {color: #0074D9;}
+.navy {color: #001F3F;}
+.teal {color: #39CCCC;}
+.green {color: #2ECC40;}
+.olive {color: #3D9970;}
+.lime {color: #01FF70;}
+.maroon {color: #85144B;}
+.orange {color: #FF851B;}
+.purple {color: #B10DC9;}
+.red {color: #FF4136;}
+.yellow {color: #FFDC00;}
+.fuchsia {color: #F012BE;}
+.silver {color: #ddd;}
+.gray {color: #aaa;}
+.white {color: white;}
+.black {color: #111111;}
+
+/* The 17 Default Colors of CSS */
+.d-aqua {background-color: aqua;}
+.d-black {background-color: black;}
+.d-blue {background-color: blue;}
+.d-fuchsia {background-color: fuchsia;}
+.d-gray {background-color: gray;}
+.d-green {background-color: green;}
+.d-lime {background-color: lime;}
+.d-maroon {background-color: maroon;}
+.d-navy {background-color: navy;}
+.d-olive {background-color: olive;}
+.d-orange {background-color: orange;}
+.d-purple {background-color: purple;}
+.d-red {background-color: red;}
+.d-silver {background-color: silver;}
+.d-teal {background-color: teal;}
+.d-white {background-color: white;}
+.d-yellow {background-color: yellow; }
