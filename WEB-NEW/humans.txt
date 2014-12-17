@@ -1,0 +1,50 @@
+/* Carrocerias Perea | Descripcion - http://carroceriasperea.com.mx/ */
+                                                                                                                                                                                                                                                            
+     7M@@@B@@F   .B@M    MB@BBMBMG .B@B@BBMBk  uB@B@B@Br  X@B@B@BB:8OO8MOMB:u@B@MBMMO: BE    O@@:   .GOOOMOMBv                        
+    :@@:ii;i7:   B@J@B  .B@iUL7iYB@:@8iuLriF@k7BN:iii:M@:S@Y:i;ir::B@u55SXS BB7Lurrr@@:@@   MBLB@,  @B8UF5FFu                         
+    i@J         B@L.@@B  @8 :BBM0M:.@v 7B@OGO.v@.     i@ikB        @OUUF2PY Z@  Z@B8OU @B  Z@O.k@@.  15525uNBJ                        
+     B@GMMBM@r B@i::,S@B,B@   uB@. ,@S   X@Z  ,B@8MMM8@@ :@BOMMM@X:B@XE0ZEO OB   ;@Br  B@ Z@1:r:vB@:.ZZqqPXO@E                        
+       ,.,.,:  i      .: .,     ..  .      ,    ,:,,..     ..,.,,.   .::::,  .     ..  .  :,     :v; ;,. . .                          
+     u7irir;r77i7LuJj7ri     5j7rrYvr7ujuv7r7J17  Lrrir7YL7;ririrrvri     L77rJJuJvr7vJr77r7L          ;i:ii,                         
+     @BBB@B@B@@@@@B@B@@@BG   @BBB@B@B@B@B@B@B@B@ ,@@M@@@B@B@B@@@B@@@B@U  .B@M@B@B@B@B@@@B@B@B         O@B@B@B:                        
+     BONGZOMBMMMMMMMMOM8OB8  M8NG08OMOMOMOMOMM@M .@ZEG8OBMBMMMBMMOOMOG@j  @ZEZZGMOMOMOMOMOMBM        1@Z8OOEMM                        
+     BGGG              PZOB  BZZq                :BZ8X              8GOB  BGEX                      r@G8O,5M0@P                       
+     M8ZM              qOZ@  MGNE:,:::::::::::i  ,@EMP              OEMB  BEZP:,::::::::::i:       .@8ZBL .BOZ@7                      
+     BG8O  i@@MM8O8O8ZOMGBM  BZN0MB@@@B@B@@@B@B  :BZOE  7@BM88G8GGEMG8BX  BGqGM@B@B@B@B@B@B@       MOE8q   vMEG@,                     
+     MOGM    E@B@B@B@BBM@B.  M8PZM@B@B@B@B@B@@@  :BZME   ,BBBOMOMOMMBBG  .@E0ZBB@B@B@B@@@B@B      XME0G     SZEOB                     
+     BG8M     iEXqXPXPPXr    BZEq                :BZ8Z     LBMEEqq7Uu:   .BGNP                   vBGqGGXZMGqE80ZMq                    
+     M8ZM                    B80E.            .. ,BEON      .OBZEq:      .@EZP             .,   ,BONOM@B@B@B@MOEGMv                   
+     @OOB                    @GZGMM@B@B@B@B@@@B@ .BOO8        u@OOMq     .@OEOOBB@B@B@@@B@B@@   BBGOB.        FMZMB:                  
+     @@B@.                  .B@M@B@B@B@B@@@B@B@B :@B@B         :B@@B@1   :@BBB@@@@@B@B@B@B@B@  B@B@B7          B@B@B,                 
+     rii;                    rii:i:::i:::i:i:iii  riii           ;iiru:   ;i:i:i:i:i:i:::i:;:  Liiii           ,iiiv:                 
+                                                                                                                                          
+/* Team */
+	UX & UI Designer, Front End Developer: Argenis Oldair Palacios Escobar A.K.A. Dr. Lfnt
+	Contact: argenis [at] disain.co | Dr.Lfnt [at] gmail.com
+	Twitter: @DrLfnt
+	From: Mexico city, Mexico
+
+	Studio: DisainCo
+	Contact: contacto [at] disain.co
+	Url: http://disain.co/
+	Twitter: @DisainCo
+	From: Mexico city, Mexico
+
+	Back end: Victor Manuel Rojano Lopez
+	Contact: computacionejecutiva [at] hotmail.com
+	Twitter: @comesavr
+	From: Estado de México, Texcoco, Mexico
+
+
+/* THANKS */
+	Comesa computacionejecutiva [at] hotmail.com
+	From: Estado de México, Texcoco, Mexico
+
+
+/* SITE */
+	Last update: 15/12/2014
+	Language: Espanol.
+	Standars: HTML5, CSS3, JavaScript.
+	Components: Responsive Design, jQuery, MySQL.
+	Software: OS X Mountain Lion, Windows 7, Windows 8, Sublime Text 2, CSS Edit, Filezilla, Adobe Creative Cloud (Ilustrator CC - Photoshop CC - Dreamweaver CC - Edge CC).
+	Resources: normalize.css | font-awesome.css | modernizr.js | bootstrap.css
